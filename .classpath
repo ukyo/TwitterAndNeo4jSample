@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/home/ukyo/twitter4j-2.2.5/lib/twitter4j-async-2.2.5.jar"/>
+	<classpathentry kind="lib" path="/home/ukyo/twitter4j-2.2.5/lib/twitter4j-core-2.2.5.jar"/>
+	<classpathentry kind="lib" path="/home/ukyo/twitter4j-2.2.5/lib/twitter4j-examples-2.2.5.jar"/>
+	<classpathentry kind="lib" path="/home/ukyo/twitter4j-2.2.5/lib/twitter4j-media-support-2.2.5.jar"/>
+	<classpathentry kind="lib" path="/home/ukyo/twitter4j-2.2.5/lib/twitter4j-stream-2.2.5.jar"/>
+	<classpathentry kind="lib" path="/home/ukyo/neo4j-community-1.6.M01/lib/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/ukyo/neo4j-community-1.6.M01/lib/lucene-core-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/ukyo/neo4j-community-1.6.M01/lib/neo4j-community-1.6.M01.jar"/>
+	<classpathentry kind="lib" path="/home/ukyo/neo4j-community-1.6.M01/lib/neo4j-cypher-1.6.M01.jar"/>
+	<classpathentry kind="lib" path="/home/ukyo/neo4j-community-1.6.M01/lib/neo4j-graph-algo-1.6.M01.jar"/>
+	<classpathentry kind="lib" path="/home/ukyo/neo4j-community-1.6.M01/lib/neo4j-graph-matching-1.6.M01.jar"/>
+	<classpathentry kind="lib" path="/home/ukyo/neo4j-community-1.6.M01/lib/neo4j-jmx-1.6.M01.jar"/>
+	<classpathentry kind="lib" path="/home/ukyo/neo4j-community-1.6.M01/lib/neo4j-kernel-1.6.M01.jar"/>
+	<classpathentry kind="lib" path="/home/ukyo/neo4j-community-1.6.M01/lib/neo4j-lucene-index-1.6.M01.jar"/>
+	<classpathentry kind="lib" path="/home/ukyo/neo4j-community-1.6.M01/lib/neo4j-shell-1.6.M01.jar"/>
+	<classpathentry kind="lib" path="/home/ukyo/neo4j-community-1.6.M01/lib/neo4j-udc-1.6.M01.jar"/>
+	<classpathentry kind="lib" path="/home/ukyo/neo4j-community-1.6.M01/lib/org.apache.servicemix.bundles.jline-0.9.94_1.jar"/>
+	<classpathentry kind="lib" path="/home/ukyo/neo4j-community-1.6.M01/lib/scala-library-2.9.0-1.jar"/>
+	<classpathentry kind="lib" path="/home/ukyo/neo4j-community-1.6.M01/lib/server-api-1.6.M01.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/home/ukyo/tokyocabinet-java-1.24/tokyocabinet.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

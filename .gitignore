@@ -1,0 +1,7 @@
+hoge/
+temp/
+*.tch
+bin/
+consumer.txt
+accesstokens.txt
+
